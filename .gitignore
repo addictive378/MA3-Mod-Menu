@@ -1,0 +1,19 @@
+# hasil build
+ma3tool/android/build/
+ma3tool/android/out/
+ma3tool/android/assets/
+ma3tool/android/*.apk
+ma3tool/android/*.idsig
+ma3tool/android/*.keystore
+
+# binary pihak ketiga (ambil lewat tools/get-frida-inject.sh)
+ma3tool/vendor/
+ma3tool/assets/frida-inject
+
+# berkas kerja
+.work/
+*.log
+*.tmp
+
+# APK untuk unggah ke halaman Releases (bukan bagian dari source)
+/ma3overlay.apk

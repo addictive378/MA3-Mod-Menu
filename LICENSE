@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2026 Adi Saputra
+=======
+Copyright (c) 2026 addictive378
+>>>>>>> d4e58e0 (MA3 Mod Menu: overlay uang & diamond untuk Modern Age 3 (root, JNI via Frida))
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

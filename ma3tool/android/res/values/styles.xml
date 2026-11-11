@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema gelap tanpa ActionBar supaya layar utama menyatu dengan panel. -->
+    <style name="AppTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0A1015</item>
+        <item name="android:colorAccent">#7FE0A0</item>
+        <item name="android:statusBarColor">#0A1015</item>
+        <item name="android:navigationBarColor">#0A1015</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
